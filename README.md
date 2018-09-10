@@ -4,10 +4,10 @@ Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter files for Laboratory 2 assignment in Computer Science 310.
 
 ## Summary
-This laboratory assignment invites you to study the given A* implementation
+This laboratory assignment invites you to study and explain the given A* implementation
 in Netlogo. You are then required to make some modifications to the model
-and observe its behavior.
-The programmer is also responsible for writing a detailed reflection,
+and to observe and describe its behavior.
+Finally, you are also responsible for writing a detailed reflection,
 stored in the file `writing/reflection.md`. This is a Markdown file that must
 adhere to the standards described in the [Markdown Syntax
 Guide](https://guides.github.com/features/mastering-markdown/). Remember, you
